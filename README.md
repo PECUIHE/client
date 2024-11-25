@@ -1,3 +1,17 @@
+# E-Commerce Fashion Site
+
+This is an e-commerce fashion shop built with **React framework MERN**, by *pecuihe*, learning from 
+### Boss Aniekan
+at 
+### Matriks Hub, Uyo.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
